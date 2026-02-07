@@ -1,0 +1,12 @@
+node_modules
+.git
+dist
+.env
+.DS_Store
+Dockerfile
+README.md
+vite.config.ts
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+src
